@@ -1,0 +1,1 @@
+Import Student database, it is the database for inventory products.
