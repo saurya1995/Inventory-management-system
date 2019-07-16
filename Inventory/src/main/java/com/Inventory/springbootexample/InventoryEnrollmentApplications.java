@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 @EnableJpaAuditing
 public class InventoryEnrollmentApplications {  
-	 
+//test	 
 	public static void main(String[] args) {  
 				
 		SpringApplication.run(InventoryEnrollmentApplications.class, args);
